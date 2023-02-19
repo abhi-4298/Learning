@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.springframework.ide.eclipse.boot.devtools.client.launch">
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="backend-spring-boot-react-crud-full-stack-with-maven"/>
+<stringAttribute key="spring.devtools.remote.secret" value=""/>
+<stringAttribute key="spring.devtools.remote.url" value=""/>
+</launchConfiguration>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/in28minutes/spring-boot-examples.git"/>
+		<item value="https://github.com/in28minutes/spring-boot-examples/compare/master...dependabot/npm_and_yarn/spring-boot-react-examples/spring-boot-react-cors-cross-origin-csrf/frontend-spring-boot-react-cors-cross-origin-csrf/json5-1.0.2"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+</section>
